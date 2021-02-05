@@ -20,13 +20,6 @@
 | So that (why they want to accomplish that thing) | … I can bring all the thoughts together.   |
 
 ## 🤖 Tech Stack
-| Full-Stack Development | Tech       | Purpose                                                                                                                                    |
-| ---------------------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Front-end              | React JS   | Library for building user interfaces or UI components.<br><br>Will proficiently update and render the components when information changes. |
-| Back-end               | Auth0      | Authentication                                                                                                                             |
-| Back-end               | Node.js    | Runtime environment                                                                                                                        |
-| Back-end               | Express.js | Framework for Node.js                                                                                                                      |
-| Database               | MongoDB    | Storing data<br><br>Is a document database, which means it stores data in JSON-like documents.                                             |
 
 ## ⚡ MVP
 - Responsive
