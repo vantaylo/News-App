@@ -24,7 +24,7 @@
 ## ⚡ MVP
 - Responsive
 - User login with authentication
-- Present newspaper headlines from user subscriptions
+- Present newspaper articles from user subscriptions
 - User can save articles and later access them
 
 Nice-to-haves:
