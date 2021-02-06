@@ -25,7 +25,6 @@
 - Responsive
 - User login with authentication
 - Present newspaper headlines from user subscriptions
-- Add/Delete subscriptions
 - User can save articles and later access them
 
 Nice-to-haves:
