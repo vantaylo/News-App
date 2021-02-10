@@ -1,6 +1,7 @@
 # What's Happening
 
 ## Project Planning Breakdown:
+
 - Idea
 - MVP
 - Database Modeling
@@ -13,6 +14,7 @@
 - Frontend Testing
 
 ## 💡 Idea: Place for all my newspaper subscriptions
+
 | User story                                       | My story                                   |
 | ------------------------------------------------ | ------------------------------------------ |
 | As a (who wants to accomplish something)         | … subscriber to multiple newspapers.       |
@@ -21,18 +23,24 @@
 
 ## 🤖 Tech Stack
 
+MERN Stack
+
 ## ⚡ MVP
+
 - Responsive
 - User login with authentication
-- Present newspaper articles from user subscriptions
-- User can save articles and later access them
+- Display Today's frontpage of varying newspapers
+- User directed to articles they click on
+- User can save articles
 
 Nice-to-haves:
 Twitter feed of tweets from accounts user picked, add/delete follows.
 
 ## ✍️ Wireframes
 
-## 🔙 Backend Build 
+![Wireframe for site](WH_Wireframe.png)
+
+## 🔙 Backend Build
 
 ## 🗣️ API Endpoint Planning
 
