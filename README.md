@@ -1,6 +1,6 @@
 # What's Happening
 
-## Project Planning Breakdown:
+## Project Planning Breakdown
 
 - Idea
 - MVP
