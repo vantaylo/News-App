@@ -1,4 +1,4 @@
-# What's Happening
+# Framing It
 
 ## Project Planning Breakdown
 
