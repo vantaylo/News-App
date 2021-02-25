@@ -1,4 +1,4 @@
-# Framing It
+# News App
 
 ## Project Planning Breakdown
 
